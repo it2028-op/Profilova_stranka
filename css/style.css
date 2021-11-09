@@ -1,0 +1,81 @@
+header{
+    background-color: black;
+    color: rgb(68, 204, 0);    
+}
+h1{
+    color: rgb(68, 204, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 70px;
+}
+main {
+    background-color: black;
+    margin: 75px;
+    padding: 20px;
+    border: 10px solid rgb(68, 204, 0);
+    padding-top: 0px;
+}
+p{
+    color: whitesmoke;
+    border: rgb(68, 204, 0);
+    background-color: black;
+}
+body{
+    background-image: url("../img/dataimg.jpg");
+}
+h2{
+    color: rgb(68, 204, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 55px;
+    padding: 25px;
+}
+h3{
+    color: rgb(68, 204, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.buton{
+    background-color: rgb(68, 204, 0);
+    margin-left: 75px;
+    margin-right: 75px;
+    padding: 15px;
+    color: black;
+}
+h4{
+    color: rgb(68, 204, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+hr{
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 2px;
+  border-color: rgb(68, 204, 0);
+}
+footer{
+    background-color: black;
+    border-top: 5px solid rgb(68, 204, 0);
+    padding-bottom: 75px;
+}
+li{
+    color: whitesmoke;
+}
+a{
+    background-color: black;
+    color: whitesmoke;
+}
+.cart{
+    background-color: black;
+    border: solid rgb(68, 204, 0) 5px;
+}
